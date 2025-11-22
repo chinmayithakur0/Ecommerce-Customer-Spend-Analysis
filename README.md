@@ -4,8 +4,6 @@ End-to-end machine learning project where I predict customer yearly spending and
 
 ---
 
-# 📊 E-Commerce Customer Spending Analysis
-
 ### Predicting Yearly Customer Spend Using Linear Regression
 
 ---
